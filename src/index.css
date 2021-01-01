@@ -36,7 +36,7 @@ a:hover {
 }
 header {
   grid-area: header;
-  background-color: #203040;
+  background-color: #2874f0;
   color: #ffffff;
   display: flex;
   justify-content: space-between;
@@ -52,7 +52,7 @@ main {
 }
 footer {
   grid-area: footer;
-  background-color: #203040;
+  background-color: #2874f0;
   color: #ffffff;
   display: flex;
   justify-content: center;
